@@ -34,89 +34,65 @@
           </ul>
         </GuideCard>
 
-        <GuideCard :number="2" title="Mulai Menggunakan">
+        <GuideCard :number="2" title="Ciptakan Pantun Pertama Anda">
           <ul class="space-y-3 text-gray-700">
             <li class="flex items-start">
               <svg class="w-6 h-6 text-red-700 mr-3 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
-              <span>Beranda: Lihat ringkasan konten dan rekomendasi pembelajaran hari ini</span>
+              <span>Beranda: Di halaman utama, Anda akan menemukan fitur "Generate Batombe".</span>
             </li>
             <li class="flex items-start">
               <svg class="w-6 h-6 text-red-700 mr-3 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
-              <span>Menu Utama: Akses berbagai kategori seperti Pantun, Pepatah, Cerita Rakyat, dan Kosakata</span>
+              <span>Personalisasi: Pilih Tema pantun (misal: "Nasihat Pernikahan"), Jumlah Baris, dan Emosi yang Anda rasakan (misal: "Bahagia").</span>
             </li>
             <li class="flex items-start">
               <svg class="w-6 h-6 text-red-700 mr-3 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
-              <span>Pencarian: Gunakan fitur pencarian untuk menemukan konten spesifik dengan cepat</span>
+              <span>Buat Pantun: Tekan tombol "Buek Pantun Baru". AI (Gemini) akan langsung membuatkan pantun Batombe baru yang otentik untuk Anda.</span>
             </li>
             <li class="flex items-start">
               <svg class="w-6 h-6 text-red-700 mr-3 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
-              <span>Favorit: Tandai konten favorit Anda untuk akses cepat di kemudian hari</span>
+              <span>Terjemahan: Di halaman hasil, Anda bisa melihat pantun dalam Bahasa Minang dan tekan "Terjemahan" untuk melihat artinya dalam Bahasa Indonesia</span>
             </li>
           </ul>
         </GuideCard>
 
-        <GuideCard :number="3" title="Fitur Pembelajaran">
+        <GuideCard :number="3" title="Rekam, Bagikan, & Berinteraksi (Fitur Komunitas)">
           <ul class="space-y-3 text-gray-700">
             <li class="flex items-start">
               <svg class="w-6 h-6 text-red-700 mr-3 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
-              <span>Mode Belajar: Pelajari materi secara sistematis dengan penjelasan lengkap dan contoh</span>
+              <span>Postingan: Bagikan pantun atau rekaman suara Anda ke halaman Postingan Komunitas.</span>
             </li>
             <li class="flex items-start">
               <svg class="w-6 h-6 text-red-700 mr-3 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
-              <span>Kuis & Latihan: Uji pemahaman Anda dengan berbagai soal interaktif</span>
-            </li>
-            <li class="flex items-start">
-              <svg class="w-6 h-6 text-red-700 mr-3 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
-              </svg>
-              <span>Audio & Pengucapan: Dengarkan cara pengucapan yang benar untuk kosakata dan pantun</span>
-            </li>
-            <li class="flex items-start">
-              <svg class="w-6 h-6 text-red-700 mr-3 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
-              </svg>
-              <span>Progres Belajar: Pantau kemajuan pembelajaran Anda melalui dashboard statistik</span>
+              <span>Interaksi: Lihat, beri like, dan komentari karya pengguna lain. Anda juga bisa mendapatkan arahan langsung dari Pemangku Adat di fitur ini.</span>
             </li>
           </ul>
         </GuideCard>
 
-        <GuideCard :number="4" title="Tips & Trik">
+        <GuideCard :number="4" title="Pelajari & Tinjau Kembali (Fitur Edukasi)">
           <ul class="space-y-3 text-gray-700">
             <li class="flex items-start">
               <svg class="w-6 h-6 text-red-700 mr-3 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
               </svg>
-              <span>Pelajari materi secara bertahap, mulai dari level dasar hingga mahir</span>
+              <span>Belajar Bahasa Minang: Masuk ke menu Baraja (Belajar). Di sini Anda bisa mempelajari kosakata adat dan struktur pantun Minang secara interaktif.</span>
             </li>
             <li class="flex items-start">
               <svg class="w-6 h-6 text-red-700 mr-3 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
               </svg>
-              <span>Luangkan waktu 15-30 menit setiap hari untuk hasil optimal</span>
-            </li>
-            <li class="flex items-start">
-              <svg class="w-6 h-6 text-red-700 mr-3 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
-              </svg>
-              <span>Praktikkan apa yang dipelajari dalam kehidupan sehari-hari</span>
-            </li>
-            <li class="flex items-start">
-              <svg class="w-6 h-6 text-red-700 mr-3 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
-              </svg>
-              <span>Bagikan pengetahuan dengan teman dan keluarga untuk memperdalam pemahaman</span>
+              <span>Riwayat (History): Semua pantun yang pernah Anda buat akan tersimpan otomatis di halaman History (Riwayat) untuk Anda lihat kembali kapan pun</span>
             </li>
           </ul>
         </GuideCard>

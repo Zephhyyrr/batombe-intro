@@ -3,12 +3,15 @@
     <div class="max-w-6xl mx-auto px-4">
       <div class="grid md:grid-cols-3 gap-8 mb-8">
         <div>
-          <div class="flex items-center space-x-3 mb-4">
-            <div class="w-10 h-10 bg-yellow-500 rounded-full flex items-center justify-center font-bold text-red-900">
-              B
-            </div>
-            <span class="font-bold text-xl">Batombe</span>
-          </div>
+          <!-- Logo + Nama -->
+        <div class="flex items-center space-x-3">
+          <img 
+            src="../../assets/logo.jpg" 
+            alt="Logo"
+            class="w-10 h-10 rounded-full object-cover"
+          />
+          <span class="font-bold text-xl">RimaBatombe</span>
+        </div>
           <p class="text-red-200">
             Melestarikan dan mempromosikan kekayaan budaya dan sastra Minangkabau untuk generasi mendatang.
           </p>
