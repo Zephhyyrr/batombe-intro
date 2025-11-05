@@ -1,22 +1,33 @@
-FROM node:22.16.0 AS builder
+# Tahap 1: Builder
+# Menggunakan base image node versi 22 yang ringan (alpine)
+FROM node:22-alpine AS builder
 WORKDIR /app
 
-# Install dependencies and build the app
+# Install dependencies
 COPY package*.json ./
 RUN npm ci
+
+# Copy sisa source code dan build aplikasi
 COPY . .
 RUN npm run build
 
-FROM node:22.16.0 AS runner
+# ---
+
+# Tahap 2: Runner
+# Mulai dari base image yang sama
+FROM node:22-alpine AS runner
 WORKDIR /app
 
-# Only install production dependencies
+# Hanya install production dependencies
 COPY package*.json ./
 RUN npm ci --omit=dev
 
-# Copy build output and public assets from the builder stage
+# Copy HANYA build output dari builder stage
+# .output sudah berisi semua yang dibutuhkan, termasuk aset publik
 COPY --from=builder /app/.output .output
-COPY --from=builder /app/public ./public
+
+# BARIS INI DIHAPUS:
+# COPY --from=builder /app/public ./public <-- INI SUMBER ERROR
 
 EXPOSE 3000
 CMD ["node", ".output/server/index.mjs"]
