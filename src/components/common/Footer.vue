@@ -26,18 +26,10 @@
             <li><a href="#panduan" class="hover:text-yellow-300 transition">Panduan</a></li>
           </ul>
         </div>
-
-        <div>
-          <h4 class="font-bold text-lg mb-4">Kontak</h4>
-          <ul class="space-y-2 text-red-200">
-            <li>Email: info@batombe.id</li>
-            <li>Website: www.batombe.id</li>
-          </ul>
-        </div>
       </div>
 
       <div class="border-t border-red-800 pt-8 text-center text-red-200">
-        <p>&copy; 2024 Batombe - Budaya Sastra Minangkabau. Semua hak dilindungi.</p>
+        <p class="text-red-200">&copy; {{ new Date().getFullYear() }} RimaBatombe. All rights reserved.</p>
       </div>
     </div>
   </footer>
