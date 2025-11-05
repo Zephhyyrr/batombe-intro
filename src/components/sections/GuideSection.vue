@@ -40,25 +40,25 @@
               <svg class="w-6 h-6 text-red-700 mr-3 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
-              <span><strong>Beranda:</strong> Lihat ringkasan konten dan rekomendasi pembelajaran hari ini</span>
+              <span>Beranda: Lihat ringkasan konten dan rekomendasi pembelajaran hari ini</span>
             </li>
             <li class="flex items-start">
               <svg class="w-6 h-6 text-red-700 mr-3 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
-              <span><strong>Menu Utama:</strong> Akses berbagai kategori seperti Pantun, Pepatah, Cerita Rakyat, dan Kosakata</span>
+              <span>Menu Utama: Akses berbagai kategori seperti Pantun, Pepatah, Cerita Rakyat, dan Kosakata</span>
             </li>
             <li class="flex items-start">
               <svg class="w-6 h-6 text-red-700 mr-3 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
-              <span><strong>Pencarian:</strong> Gunakan fitur pencarian untuk menemukan konten spesifik dengan cepat</span>
+              <span>Pencarian: Gunakan fitur pencarian untuk menemukan konten spesifik dengan cepat</span>
             </li>
             <li class="flex items-start">
               <svg class="w-6 h-6 text-red-700 mr-3 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
-              <span><strong>Favorit:</strong> Tandai konten favorit Anda untuk akses cepat di kemudian hari</span>
+              <span>Favorit: Tandai konten favorit Anda untuk akses cepat di kemudian hari</span>
             </li>
           </ul>
         </GuideCard>
@@ -69,25 +69,25 @@
               <svg class="w-6 h-6 text-red-700 mr-3 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
-              <span><strong>Mode Belajar:</strong> Pelajari materi secara sistematis dengan penjelasan lengkap dan contoh</span>
+              <span>Mode Belajar: Pelajari materi secara sistematis dengan penjelasan lengkap dan contoh</span>
             </li>
             <li class="flex items-start">
               <svg class="w-6 h-6 text-red-700 mr-3 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
-              <span><strong>Kuis & Latihan:</strong> Uji pemahaman Anda dengan berbagai soal interaktif</span>
+              <span>Kuis & Latihan: Uji pemahaman Anda dengan berbagai soal interaktif</span>
             </li>
             <li class="flex items-start">
               <svg class="w-6 h-6 text-red-700 mr-3 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
-              <span><strong>Audio & Pengucapan:</strong> Dengarkan cara pengucapan yang benar untuk kosakata dan pantun</span>
+              <span>Audio & Pengucapan: Dengarkan cara pengucapan yang benar untuk kosakata dan pantun</span>
             </li>
             <li class="flex items-start">
               <svg class="w-6 h-6 text-red-700 mr-3 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
-              <span><strong>Progres Belajar:</strong> Pantau kemajuan pembelajaran Anda melalui dashboard statistik</span>
+              <span>Progres Belajar: Pantau kemajuan pembelajaran Anda melalui dashboard statistik</span>
             </li>
           </ul>
         </GuideCard>
