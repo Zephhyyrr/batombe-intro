@@ -13,7 +13,7 @@
         </div>
         <h3 class="text-2xl font-bold text-red-900 mb-4">Rima Batombe APK</h3>
         <p class="text-gray-600 mb-6">Versi terbaru: 1.0.0</p>
-        <a href="" download class="block w-full bg-red-700 hover:bg-red-800 text-white font-bold py-4 px-6 rounded-xl shadow-lg transform hover:scale-105 transition duration-300 mb-4">
+        <a download href="/Rima Batombe.apk" class="block w-full bg-red-700 hover:bg-red-800 text-white font-bold py-4 px-6 rounded-xl shadow-lg transform hover:scale-105 transition duration-300 mb-4">
           <span class="flex items-center justify-center">
             <svg class="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
