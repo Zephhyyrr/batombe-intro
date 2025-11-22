@@ -11,7 +11,7 @@
           </div>
           <h3 class="text-xl font-bold text-red-900 mb-4">Kekayaan Sastra</h3>
           <p class="text-gray-700">
-            Jelajahi berbagai karya sastra Minangkabau dari pantun, pepatah, hingga cerita rakyat yang kaya akan filosofi hidup
+            Memperkenalkan karya sastra Minangkabau seperti pantun, pepatah, dan cerita rakyat sebagai dasar tradisi Batombe.
           </p>
         </div>
 
@@ -23,7 +23,7 @@
           </div>
           <h3 class="text-xl font-bold text-red-900 mb-4">Pembelajaran Interaktif</h3>
           <p class="text-gray-700">
-            Belajar dengan cara yang menyenangkan melalui fitur interaktif, kuis, dan latihan yang dirancang khusus
+            Menyediakan fitur pembelajaran yang menarik dan interaktif, sehingga pengguna dapat mempelajari pantun dan Bahasa Minang dengan cara yang modern.
           </p>
         </div>
 
@@ -35,7 +35,7 @@
           </div>
           <h3 class="text-xl font-bold text-red-900 mb-4">Pelestarian Budaya</h3>
           <p class="text-gray-700">
-            Ikut serta melestarikan warisan budaya Minangkabau untuk generasi masa depan
+            Mengajak pengguna berpartisipasi dalam pelestarian budaya Minangkabau melalui media digital yang relevan bagi generasi muda.
           </p>
         </div>
       </div>
