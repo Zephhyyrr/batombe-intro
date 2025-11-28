@@ -16,8 +16,8 @@
         <!-- Menu -->
         <div class="hidden md:flex space-x-8">
           <a href="#beranda" class="hover:text-yellow-300 transition">Beranda</a>
-          <a href="#tentang" class="hover:text-yellow-300 transition">Tentang</a>
           <a href="#video" class="hover:text-yellow-300 transition">Video</a>
+          <a href="#tentang" class="hover:text-yellow-300 transition">Tentang</a>
           <a href="#download" class="hover:text-yellow-300 transition">Download</a>
           <a href="#panduan" class="hover:text-yellow-300 transition">Panduan</a>
         </div>
