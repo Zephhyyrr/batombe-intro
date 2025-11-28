@@ -14,9 +14,15 @@
           <p class="text-lg md:text-xl text-gray-700 mb-12">
             Pelajari dan lestarikan kekayaan sastra dan budaya Minangkabau melalui aplikasi interaktif yang modern dan mudah digunakan
           </p>
-          <a href="#download" class="inline-block bg-red-700 hover:bg-red-800 text-white font-bold py-4 px-8 rounded-full text-lg shadow-lg transform hover:scale-105 transition duration-300">
-            Download Sekarang
-          </a>
+          <div class="flex flex-wrap gap-4">
+            <a href="#download" class="inline-block bg-red-700 hover:bg-red-800 text-white font-bold py-4 px-8 rounded-full text-lg shadow-lg transform hover:scale-105 transition duration-300">
+              Download Sekarang
+            </a>
+            <a href="https://drive.google.com/file/d/1L4nvVkjc_j6K1Kb-ELmFYetDIOla9qMH/view?usp=drive_link" class="inline-block bg-amber-600 hover:bg-amber-700 text-white font-bold py-4 px-8 rounded-full text-lg shadow-lg transform hover:scale-105 transition duration-300">
+              Lihat Panduan
+            </a>
+          </div>
+
         </div>
         
         <!-- Image - Right Side -->
